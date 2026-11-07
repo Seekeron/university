@@ -39,8 +39,7 @@ Spring creates EventService because of `@Service` and passes it into the control
 The controller does not create the service itself. `@Value` reads configuration values.
 No database or frontend connection is used.
 
-## Report screenshots
+## Report and study guide
 
-With the application running, open each endpoint above in a browser and take a screenshot showing the URL and JSON response.
-Take three screenshots, one per endpoint. Optionally add a fourth screenshot of the console showing the server started on port 8080.
-The report needs your name and group, purpose, screenshots and a conclusion of 3–5 sentences.
+- [Report](report.docx): purpose, three endpoint screenshots and conclusion.
+- [Study guide in Russian](GUIDE.md): request flow, annotations, dependency injection and demonstration steps.
