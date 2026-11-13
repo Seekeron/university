@@ -52,3 +52,7 @@ Restarting restores the sample events and resets the counter.
 
 The service is injected through the controller constructor. No database or frontend is used.
 See [GUIDE.md](GUIDE.md) for a short explanation and copyable curl commands for demonstration and screenshots.
+
+## Report
+
+[Lab report with five request screenshots](report.docx).
